@@ -17,6 +17,8 @@ This project explores the use of hand palm recognition as a biometric authentica
 ## Dataset
 The dataset for this project consists of hand palm images collected for training and evaluation.
 
+src:  https://www.kaggle.com/datasets/mahdieizadpanah/birjand-university-mobile-palmprint-databasebmpd
+
 Note: The data/ directory, which contains the dataset, is not included in this repository due to its size. You will need to add the data/ folder and structure it as follows to run the training scripts:
 
 ```
